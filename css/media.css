@@ -1,0 +1,19 @@
+/*
+@media(max-width:824px){
+
+   .header__inner{
+       flex-wrap: wrap;
+       height: auto;
+       order: 0;
+       padding-top: 25px;
+       justify-content: flex-end;
+   }
+   .a-logo {
+       margin: 0 auto;
+   }
+   .menu {
+       display: none;
+   }
+   
+}
+*/
